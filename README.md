@@ -50,38 +50,39 @@ python green_metrics2.py
 Open in browser:
 http://127.0.0.1:5000
 
-##Screenshots
+## Screenshots
+
 Home Page
-static/screenshots/home.png
+![Home Page](static/screenshots/home.png)
+
 Login Page
-static/screenshots/login.png
+![Login Page](static/screenshots/login.png)
 
 Sign Up Page
-static/screenshots/signup.png
+![Sign Up Page](static/screenshots/signup.png)
 
 Input Form for Calculations
-static/screenshots/input1.png
-static/screenshots/input2.png
-static/screenshots/input3.png
-static/screenshots/input4.png
+![Input Form 1](static/screenshots/input1.png)
+![Input Form 2](static/screenshots/input2.png)
+![Input Form 3](static/screenshots/input3.png)
+![Input Form 4](static/screenshots/input4.png)
 
 Green Metrics Output Table
-static/screenshots/output1.png
-static/screenshots/output2.png
-static/screenshots/output3.png
-static/screenshots/output4.png
-static/screenshots/output5.png
-static/screenshots/output6.png
-static/screenshots/output7.png
+![Output 1](static/screenshots/output1.png)
+![Output 2](static/screenshots/output2.png)
+![Output 3](static/screenshots/output3.png)
+![Output 4](static/screenshots/output4.png)
+![Output 5](static/screenshots/output5.png)
+![Output 6](static/screenshots/output6.png)
+![Output 7](static/screenshots/output7.png)
 
 Report Generation Page
-static/screenshots/report1.png
-static/screenshots/report2.png
-
+![Report 1](static/screenshots/report1.png)
+![Report 2](static/screenshots/report2.png)
 
 Graphical Analysis
-static/screenshots/graph1.png
-static/screenshots/graph2.png
+![Graph 1](static/screenshots/graph1.png)
+![Graph 2](static/screenshots/graph2.png)
 
 ##How It Works
 1. User registers or logs in
@@ -99,5 +100,5 @@ static/screenshots/graph2.png
 - Create necessary tables manually or on first run
 - Update connection settings in green_metrics2.py
 
-License
+#3License
 This project is licensed under the MIT License.
